@@ -1,0 +1,1 @@
+Generate a testcase for logging in to Vtiger CRM version 5.4.0 (url http://49.249.28.218:8888/) as Admin with username admin & with admin as Password. Click on lead module & create a lead by filling all  the mandatory & Non mandatory fields & Convert the created Lead to Organizations & verify the same in Organizations module 
